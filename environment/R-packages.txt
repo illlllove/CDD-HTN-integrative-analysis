@@ -1,0 +1,10 @@
+R >= 4.5.0
+data.table
+coloc
+ggplot2
+patchwork
+dplyr
+readr
+tidyr
+scales
+ragg
