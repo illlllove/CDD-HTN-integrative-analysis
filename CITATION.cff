@@ -12,7 +12,9 @@ authors:
   - family-names: Zhai
     given-names: Yu
 version: 1.0.0
-date-released: 2026-09-24
+date-released: 2026-09-23
 license: MIT
 repository-code: "https://github.com/illlllove/CDD-HTN-integrative-analysis"
+doi: "10.5281/zenodo.22923193"
+url: "https://doi.org/10.5281/zenodo.22923193"
 abstract: "Custom scripts retained for the CDD-HTN integrative analysis, including archived-result reconstruction, regional summary-statistic auditing, and final figure generation."

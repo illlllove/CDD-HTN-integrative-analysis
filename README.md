@@ -2,6 +2,8 @@
 
 Repository: https://github.com/illlllove/CDD-HTN-integrative-analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22923193.svg)](https://doi.org/10.5281/zenodo.22923193)
+
 This repository contains the custom code retained for the study integrating cervical disc disorder (CDD), hypertension, cis-eQTL, bulk-transcriptomic and single-cell evidence.
 
 ## Scope
@@ -65,7 +67,9 @@ Several historical analyses were originally performed interactively and no compl
 
 ## Citation
 
-Please cite the associated article and the archived Zenodo release. The Zenodo DOI will be added after the first public release.
+Please cite the associated article and the archived Zenodo release:
+
+> Liang W, Yao H, Tu W, Zhai Y. Reproducibility code for the CDD-HTN integrative analysis. Version v1.0.0. Zenodo (2026). https://doi.org/10.5281/zenodo.22923193
 
 ## License
 
