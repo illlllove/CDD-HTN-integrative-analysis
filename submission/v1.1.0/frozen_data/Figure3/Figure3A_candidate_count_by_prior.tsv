@@ -1,0 +1,4 @@
+p12	n_candidates	prior_factor
+1e-06	0	prior1
+1e-05	4	prior2
+5e-05	15	prior3

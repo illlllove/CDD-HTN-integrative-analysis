@@ -1,0 +1,11 @@
+metric	value
+chr10_Pearson	0.6411
+chr10_Spearman	0.4144
+chr18_Pearson	0.2324
+chr18_Spearman	0.2021
+chr10_direction_concordance	1
+chr18_direction_concordance	1
+NT5C2_UKB_H4	0.0354505042712479
+RMC1_UKB_H4	0.0249926493396571
+CNNM2_UKB_H4	0.0323902304700395
+MARCKSL1P1_UKB_H4	0.0331805300389472

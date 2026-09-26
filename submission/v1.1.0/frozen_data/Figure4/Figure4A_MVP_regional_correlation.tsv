@@ -1,0 +1,5 @@
+Region	Metric	Correlation	n_regional_SNP
+Chromosome 10	Pearson	0.6411	5386
+Chromosome 10	Spearman	0.4144	5386
+Chromosome 18	Pearson	0.2324	5505
+Chromosome 18	Spearman	0.2021	5505
