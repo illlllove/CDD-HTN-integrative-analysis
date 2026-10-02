@@ -1,0 +1,15 @@
+README_submission_v1.3.1.md
+RELEASE_NOTES_v1.3.1.md
+derived_tables/Figure4B_MVP_regional_correlation.tsv
+derived_tables/Figure4C_discovery_vs_UKB_M50_H4.tsv
+derived_tables/HTN_MVP_SBP_formal_coloc_ALL_PRIORS.tsv
+derived_tables/sdY_sensitivity_REFERENCE_p12_1e-5_DISPLAY.tsv
+figures/Figure1_FINAL_synced.png
+figures/Figure1_FINAL_synced.tiff
+figures/Figure4_external_genetic_evaluation_Human_Genomics_FINAL_v4.pdf
+metadata/sdY_sensitivity_summary.txt
+scripts/01_HTN_MVP_SBP_formal_coloc.R
+scripts/02_sdY_sensitivity.R
+scripts/03_Figure4_reconstruction.R
+scripts/HTN_MVP_SBP_formal_coloc_README.txt
+supplementary/Human_Genomics_Supplementary_Tables_S1_S2.xlsx
