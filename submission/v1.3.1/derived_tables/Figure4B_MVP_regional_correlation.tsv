@@ -1,0 +1,5 @@
+Metric	Correlation	Region
+Pearson	0.641	Chromosome 10
+Pearson	0.232	Chromosome 18
+Spearman	0.414	Chromosome 10
+Spearman	0.202	Chromosome 18

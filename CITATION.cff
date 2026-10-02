@@ -11,10 +11,10 @@ authors:
     given-names: Wang
   - family-names: Zhai
     given-names: Yu
-version: 1.1.0
-date-released: 2026-09-27
+version: 1.3.1
+date-released: 2026-10-02
 license: MIT
 repository-code: "https://github.com/illlllove/CDD-HTN-integrative-analysis"
 doi: "10.5281/zenodo.22923192"
 url: "https://doi.org/10.5281/zenodo.22923192"
-abstract: "Custom scripts and frozen derived results retained for the CDD-HTN integrative analysis, including archived-result reconstruction, regional summary-statistic auditing, submission-specific reconstruction of Figures 2-4, and final figure generation."
+abstract: "Custom scripts and frozen derived results retained for the CDD-HTN integrative analysis, including formal HTN-MVP-SBP colocalization, sdY sensitivity analysis, updated Figures 1 and 4, and submission-specific supplementary tables."
