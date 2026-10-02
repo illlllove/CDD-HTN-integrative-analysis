@@ -1,0 +1,8 @@
+Reference prior: p12 = 1e-5
+Primary eQTL quantitative-trait specification: sdY = 1.0
+Sensitivity grid: sdY = 0.8, 1.0, 1.2
+Maximum full-precision H4 range across eight comparisons: 6.011326e-4
+Maximum absolute deviation from sdY = 1: 3.991589e-4
+Number of H4 >= 0.50 classification changes: 0
+
+The archived TSV contains the manuscript-facing four-decimal values. The exact maximum full-precision range and maximum absolute deviation retained from the completed local sensitivity analysis are reported above. Row-level full-precision local output is not redistributed in this incremental release; `scripts/02_sdY_sensitivity.R` reproduces it when the frozen SNP-level inputs are available.
